@@ -59,8 +59,6 @@ const developer = {
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -123,16 +121,6 @@ const developer = {
 - 📧 Email: mswarnber@gmail.com
 - 💼 LinkedIn: [Mehul Kumar Swarnber](https://www.linkedin.com/in/mehul-kumar-swarnber)
 - 🌐 Portfolio: [Stellarix](https://stellarix-portfolio.vercel.app/)
-
----
-
-<div align="center">
-  
-  ### 💖 Show some love by starring ⭐ some repositories!
-  
-  ![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red?style=for-the-badge)
-  
-</div>
 
 ---
 
