@@ -80,12 +80,7 @@ const developer = {
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mehul-kumar-swarnber&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehul-kumar-swarnber&layout=compact&langs_count=8&theme=tokyonight"/>
-  
-</div>
+
 
 <div align="center">
   
@@ -99,17 +94,6 @@ const developer = {
   
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-  ![trophy](https://github-profile-trophy.vercel.app/?username=mehul-kumar-swarnber&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
-  
-</div>
-
----
 
 ## 🐍 Contribution Snake
 
