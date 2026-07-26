@@ -1,129 +1,145 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Mehul+Kumar+Swarnber+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!;Full+Stack+Developer+%7C+Open+Source+Enthusiast;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
-</h1>
+<div align="center">
+
+```
+   _____ _______ ______ _      _               _____ __   __
+  / ____|__   __|  ____| |    | |        /\    |  __ \\ \ / /
+ | (___    | |  | |__  | |    | |       /  \   | |__) |\ V / 
+  \___ \   | |  |  __| | |    | |      / /\ \  |  _  /  > <  
+  ____) |  | |  | |____| |____| |____ / ____ \ | | \ \ / . \ 
+ |_____/   |_|  |______|______|______/_/    \_\|_|  \_\_/ \_\
+```
+
+### 🛰️ mission control for MEHUL KUMAR SWARNBER
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00CFC1,100:0D1117&height=180&section=header&text=StellariX&fontSize=60&fontColor=A9FEF7&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Building%20things%20that%20orbit%20real%20problems&descAlignY=58&descSize=18" width="100%"/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mehul-kumar-swarnber&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/mehul-kumar-swarnber?label=Followers&style=social" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=mehul-kumar-swarnber&label=TRANSMISSIONS%20RECEIVED&color=00CFC1&style=for-the-badge" alt="profile views" />
 </p>
 
 <div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehul-kumar-swarnber)
-  [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://stellarix-portfolio.vercel.app/)
-  [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mswarnber@gmail.com)
-  
+
+  [![LinkedIn](https://img.shields.io/badge/CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehul-kumar-swarnber)
+  [![Portfolio](https://img.shields.io/badge/EXPLORE-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://stellarix-portfolio.vercel.app/)
+  [![Email](https://img.shields.io/badge/TRANSMIT-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mswarnber@gmail.com)
+
 </div>
 
----
+<br/>
 
-## 🚀 About Me
+## 🪐 FLIGHT LOG
 
-```typescript
-const developer = {
-    name: "Mehul Kumar Swarnber",
-    role: "MERN Stack Developer",
-    location: "Raipur, India",
-    code: ["JavaScript", "C", "Python", "Java", "Flutter"],
-    askMeAbout: ["web dev", "tech", "app dev"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js"],
-            css: ["Tailwind"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express", "NestJS"],
-            python: ["Flask"]
-        },
-        databases: ["MongoDB", "MySQL"],
-        tools: ["Git", "Postman", "VS Code", "Figma"]
-    },
-    currentFocus: "Building scalable web applications",
-    funFact: "I debug with console.log() and I'm not ashamed! 🐛"
-};
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**CALLSIGN**  → `Mehul Kumar Swarnber`
+**BASE**      → `Raipur, India 🇮🇳`
+**MISSION**   → `MERN Stack Development`
+**STATUS**    → `🟢 Actively shipping code`
+**PAYLOAD**   → `Web + Mobile applications`
+**QUIRK**     → `console.log() is my co-pilot 🐛`
+
+</td>
+<td width="50%" valign="top">
+
+```yaml
+launchpad:
+  languages: [JavaScript, Python, Java, C]
+  frontend: [React, Next.js, Tailwind]
+  backend: [Node.js, Express, NestJS, Flask]
+  mobile: [Flutter]
+  data: [MongoDB, MySQL]
+  ground_crew: [Git, Postman, Figma, VS Code]
 ```
 
----
+</td>
+</tr>
+</table>
 
-## 🛠️ Tech Stack
+<br/>
 
-### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-### Databases & Cloud
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## 📊 GitHub Statistics
-
-
+## 🌌 THE TECH CONSTELLATION
 
 <div align="center">
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mehul-kumar-swarnber&theme=tokyonight)](https://git.io/streak-stats)
-  
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=js,py,java,c,html,css&theme=dark" />
+
+<br/><br/>
+
+**Frameworks & Runtime**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flask,tailwind,flutter&theme=dark" />
+
+<br/><br/>
+
+**Data & Ground Control**
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,postman,figma,linux&theme=dark" />
+
 </div>
+
+<br/>
+
+## 📡 SIGNAL ANALYTICS
 
 <div align="center">
-  
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mehul-kumar-swarnber&theme=tokyo-night)
-  
+
+<img src="https://github-readme-stats.vercel.app/api?username=mehul-kumar-swarnber&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00CFC1&icon_color=A9FEF7&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mehul-kumar-swarnber&theme=tokyonight&hide_border=true&background=0D1117&ring=00CFC1&fire=A9FEF7&currStreakLabel=00CFC1" height="165"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mehul-kumar-swarnber&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00CFC1&line=A9FEF7&point=ffffff" width="97%"/>
+
 </div>
 
+<br/>
 
-## 🐍 Contribution Snake
+## 🐍 ORBITAL TRAJECTORY
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mehul-kumar-swarnber/mehul-kumar-swarnber/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mehul-kumar-swarnber/mehul-kumar-swarnber/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mehul-kumar-swarnber/mehul-kumar-swarnber/output/github-contribution-grid-snake.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/mehul-kumar-swarnber/mehul-kumar-swarnber/output/github-contribution-grid-snake.svg">
 </picture>
-
----
-
-
-## 💭 Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
----
+<br/>
 
-## 📫 Let's Connect!
-
-💼 Looking for collaboration on exciting projects or just want to chat about tech? Feel free to reach out!
-
-- 📧 Email: mswarnber@gmail.com
-- 💼 LinkedIn: [Mehul Kumar Swarnber](https://www.linkedin.com/in/mehul-kumar-swarnber)
-- 🌐 Portfolio: [Stellarix](https://stellarix-portfolio.vercel.app/)
-
----
+## 📖 TRANSMISSION LOG
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+<br/>
+
+## 🚨 OPEN A CHANNEL
+
+<div align="center">
+
+Got a project worth building, a bug worth squashing, or just want to talk shop? My comms are always open.
+
+| 📡 Channel | Frequency |
+|:---|:---|
+| **Email** | [mswarnber@gmail.com](mailto:mswarnber@gmail.com) |
+| **LinkedIn** | [Mehul Kumar Swarnber](https://www.linkedin.com/in/mehul-kumar-swarnber) |
+| **Portfolio** | [stellarix-portfolio.vercel.app](https://stellarix-portfolio.vercel.app/) |
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00CFC1,100:0D1117&height=100&section=footer"/>
+
+<div align="center">
+<sub>⭐ from a repo far, far away — thanks for reading this far, fellow astronaut.</sub>
 </div>
