@@ -1,22 +1,14 @@
 <div align="center">
 
-<img src="https://media.tenor.com/ogPiGseMW6YAAAAj/space-astronaut.gif" width="180"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00CFC1,100:0D1117&height=180&section=header&text=StellariX&fontSize=60&fontColor=A9FEF7&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Building%20things%20that%20orbit%20real%20problems&descAlignY=58&descSize=18" width="100%"/>
 
 ### 🛰️ mission control for MEHUL KUMAR SWARNBER
 
-</div>
+<img src="https://komarev.com/ghpvc/?username=stellarix&label=TRANSMISSIONS%20RECEIVED&color=00CFC1&style=for-the-badge" alt="profile views" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00CFC1,100:0D1117&height=180&section=header&text=StellariX&fontSize=60&fontColor=A9FEF7&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Building%20things%20that%20orbit%20real%20problems&descAlignY=58&descSize=18" width="100%"/> 
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=stellarix&label=TRANSMISSIONS%20RECEIVED&color=00CFC1&style=for-the-badge" alt="profile views" />
-</p>
-
-<div align="center">
-
-  [![LinkedIn](https://img.shields.io/badge/CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehul-kumar-swarnber)
-  [![Portfolio](https://img.shields.io/badge/EXPLORE-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://stellarix-portfolio.vercel.app/)
-  [![Email](https://img.shields.io/badge/TRANSMIT-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mswarnber@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehul-kumar-swarnber)
+[![Portfolio](https://img.shields.io/badge/EXPLORE-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://stellarix-portfolio.vercel.app/)
+[![Email](https://img.shields.io/badge/TRANSMIT-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mswarnber@gmail.com)
 
 </div>
 
@@ -100,6 +92,54 @@ launchpad:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stellarix/stellarix/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/stellarix/stellarix/output/github-contribution-grid-snake.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/stellarix/stellarix/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
+</div>
+
+<br/>
+
+## 📖 TRANSMISSION LOG
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%"/>
+
+</div>
+
+<br/>
+
+## 🚨 OPEN A CHANNEL
+
+<div align="center">
+
+Got a project worth building, a bug<div align="center">
+</div>
+
+<br/>
+
+## 📡 SIGNAL ANALYTICS
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=stellarix&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00CFC1&icon_color=A9FEF7&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=stellarix&theme=tokyonight&hide_border=true&background=0D1117&ring=00CFC1&fire=A9FEF7&currStreakLabel=00CFC1" height="165"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=stellarix&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00CFC1&line=A9FEF7&point=ffffff" width="97%"/>
+
+</div>
+
+<br/>
+
+## 🐍 ORBITAL TRAJECTORY
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stellarix/stellarix/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/stellarix/stellarix/output/github-contribution-grid-snake.svg">
   <img alt="contribution snake" src="https://raw.githubusercontent.com/stellarix/stellarix/output/github-contribution-grid-snake.svg">
 </picture>
 
@@ -135,4 +175,17 @@ Got a project worth building, a bug worth squashing, or just want to talk shop? 
 
 <div align="center">
 <sub>⭐ from a repo far, far away — thanks for reading this far, fellow astronaut.</sub>
+</div>
+ worth squashing, or just want to talk shop? My comms are always open.
+
+| 📡 Channel | Frequency |
+|:---:|:---:|
+| **Email** | [mswarnber@gmail.com](mailto:mswarnber@gmail.com) |
+| **LinkedIn** | [Mehul Kumar Swarnber](https://www.linkedin.com/in/mehul-kumar-swarnber) |
+| **Portfolio** | [stellarix-portfolio.vercel.app](https://stellarix-portfolio.vercel.app/) |
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00CFC1,100:0D1117&height=100&section=footer" width="100%"/>
+
+<sub>⭐ from a repo far, far away — thanks for reading this far, fellow astronaut.</sub>
+
 </div>
