@@ -6,7 +6,7 @@
 
 </div>
 
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00CFC1,100:0D1117&height=180&section=header&text=StellariX&fontSize=60&fontColor=A9FEF7&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Building%20things%20that%20orbit%20real%20problems&descAlignY=58&descSize=18" width="100%"/> -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00CFC1,100:0D1117&height=180&section=header&text=StellariX&fontSize=60&fontColor=A9FEF7&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Building%20things%20that%20orbit%20real%20problems&descAlignY=58&descSize=18" width="100%"/> 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=stellarix&label=TRANSMISSIONS%20RECEIVED&color=00CFC1&style=for-the-badge" alt="profile views" />
