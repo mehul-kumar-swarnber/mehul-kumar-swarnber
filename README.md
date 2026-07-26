@@ -1,13 +1,6 @@
 <div align="center">
 
-```
-   _____ _______ ______ _      _               _____ __   __
-  / ____|__   __|  ____| |    | |        /\    |  __ \\ \ / /
- | (___    | |  | |__  | |    | |       /  \   | |__) |\ V / 
-  \___ \   | |  |  __| | |    | |      / /\ \  |  _  /  > <  
-  ____) |  | |  | |____| |____| |____ / ____ \ | | \ \ / . \ 
- |_____/   |_|  |______|______|______/_/    \_\|_|  \_\_/ \_\
-```
+<img src="https://media.tenor.com/ogPiGseMW6YAAAAj/space-astronaut.gif" width="180"/>
 
 ### 🛰️ mission control for MEHUL KUMAR SWARNBER
 
@@ -16,7 +9,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00CFC1,100:0D1117&height=180&section=header&text=StellariX&fontSize=60&fontColor=A9FEF7&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Building%20things%20that%20orbit%20real%20problems&descAlignY=58&descSize=18" width="100%"/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mehul-kumar-swarnber&label=TRANSMISSIONS%20RECEIVED&color=00CFC1&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=stellarix&label=TRANSMISSIONS%20RECEIVED&color=00CFC1&style=for-the-badge" alt="profile views" />
 </p>
 
 <div align="center">
@@ -89,12 +82,12 @@ launchpad:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mehul-kumar-swarnber&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00CFC1&icon_color=A9FEF7&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mehul-kumar-swarnber&theme=tokyonight&hide_border=true&background=0D1117&ring=00CFC1&fire=A9FEF7&currStreakLabel=00CFC1" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=stellarix&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00CFC1&icon_color=A9FEF7&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=stellarix&theme=tokyonight&hide_border=true&background=0D1117&ring=00CFC1&fire=A9FEF7&currStreakLabel=00CFC1" height="165"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mehul-kumar-swarnber&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00CFC1&line=A9FEF7&point=ffffff" width="97%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=stellarix&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00CFC1&line=A9FEF7&point=ffffff" width="97%"/>
 
 </div>
 
@@ -105,9 +98,9 @@ launchpad:
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mehul-kumar-swarnber/mehul-kumar-swarnber/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mehul-kumar-swarnber/mehul-kumar-swarnber/output/github-contribution-grid-snake.svg">
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/mehul-kumar-swarnber/mehul-kumar-swarnber/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stellarix/stellarix/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/stellarix/stellarix/output/github-contribution-grid-snake.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/stellarix/stellarix/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
